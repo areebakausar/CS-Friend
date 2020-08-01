@@ -7,5 +7,7 @@ For PrintQueue, a <b>Lock and Condition</b> ensure that two CardCreators do not 
 Following is the console output after multithreaded running of the program:
 
 ![Image](https://i.imgur.com/tc99kt0.png)
+
 ![Image](https://i.imgur.com/6bLSRuT.png)
+
 ![Image](https://i.imgur.com/uokfwEe.png)
